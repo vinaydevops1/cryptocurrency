@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.logo-size {
+  height: 25px;
+}
+.list-heading1 {
+  display: flex;
+  list-style-type: none;
+  color: white;
+  font-size: 12px;
+  padding: 10px;
+}
+.type {
+  width: 100px;
+  padding-left: 20px;
+}
+.usd {
+  flex-grow: 1;
+  text-align: right;
+  padding-right: 20px;
+}
+.euro {
+  width: 100px;
+  padding-right: 20px;
+  text-align: right;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
